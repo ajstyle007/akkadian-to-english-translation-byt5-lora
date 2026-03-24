@@ -1,4 +1,4 @@
-# Akkadian to English Translation using ByT5 + LoRA
+# Akkadian to English Translation using ByT5 + LoRA (Kaggle competition)
 
 ### 🚀 Overview
 - Kaggle competition: Deep Past Challenge
